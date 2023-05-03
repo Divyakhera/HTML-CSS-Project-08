@@ -16,8 +16,12 @@
 
 # Duration
 
-<!-- # Project [LiveLink](https://hexcodecolor.netlify.app/) -->
 4 hours to complete this Project Color Picker.
+
+ # Project [LiveLink](https://divya-html-css-project-08.netlify.app/) (click here)
+
+ [![Netlify Status](https://api.netlify.com/api/v1/badges/35af7605-68d7-438d-9591-3a34cc923713/deploy-status)](https://app.netlify.com/sites/divya-html-css-project-08/deploys)
+ ![Netlify username](https://shields.io/badge/-Divya@08-blue)
 <br>
 <br>
 
