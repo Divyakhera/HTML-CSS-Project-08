@@ -33,13 +33,14 @@ nav {
     align-items: column;
     flex-direction: column;
     justify-content: space-between;
-    margin-left: 150px;
+    margin-left: 100px;
     width: 300px;
    
 }
 .left-section h1{
     font-size: 50px;
     color: #3e4794;
+    font-weight: 1500;
 }
 .left-section h4{
     color: #b1b3c3;
